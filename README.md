@@ -8,10 +8,14 @@
 
 ## 🚀 Sobre mim
 
-- 🎯 Desenvolvedor **Java Backend** em busca da primeira oportunidade profissional
-- 📚 Estudando **Spring Boot**, **SQL** e boas práticas de desenvolvimento
-- 💡 Apaixonado por resolver problemas com código limpo e orientado a objetos
-- 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/douglassabino-dev)
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 💻 Focado em desenvolvimento **Back-end com Java**
+- ⚙️ Experiência prática com **Spring Boot** na criação de **APIs REST**
+- 🗄️ Utilizo **PostgreSQL** para modelagem e persistência de dados
+- 🔧 Versionamento de código com **Git e GitHub**
+- 📚 Estudando boas práticas, arquitetura e desenvolvimento de APIs
+- 🎯 Buscando oportunidade de **estágio em desenvolvimento back-end**
+- 🚀 Objetivo a longo prazo: me tornar um **Engenheiro de Software**
 
 ---
 
@@ -20,7 +24,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -79,18 +83,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dgsabino-dev&color=blueviolet&style=flat-square&label=Visitantes" />
-
-<!--
-**dgsabino-dev/dgsabino-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
